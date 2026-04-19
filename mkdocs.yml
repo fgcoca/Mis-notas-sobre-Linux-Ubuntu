@@ -34,7 +34,9 @@ nav:
   - Actualizar Ubuntu 20.04 a Ubuntu 22.04: A20_22.md
   - Problema de funcionamiento de Pyserial: pyse.md
   - Problema con actualización de Snap Store: psnap.md
-  - Dispositivos CH340 USB no funcionan en Ubuntu 22.04: ch340.md
+  - CH340 / CH341:
+    - Dispositivos CH340 USB no funcionan en Ubuntu 22.04: ch340.md
+    - Como saber si tengo CH34x instalado: ch340_como.md
   - Archivo AppImage no se ejecuta: archimagen.md
   - Configurar Shutter en Ubuntu 22.04: shu.md
   - Peek no graba el cursor del ratón: peek.md
